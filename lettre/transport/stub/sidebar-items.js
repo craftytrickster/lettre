@@ -1,0 +1,1 @@
+initSidebarItems({"struct":[["StubEmailTransport","This transport does nothing except logging the message enveloppe"]]});
